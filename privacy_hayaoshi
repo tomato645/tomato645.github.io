@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>プライバシーポリシー（ハヤオシ–早押しボタン（４人用））</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN",
+                         "Hiragino Sans", "Noto Sans JP", Meiryo, sans-serif;
+            line-height: 1.7;
+            margin: 24px;
+            color: #222;
+        }
+        h1 {
+            font-size: 1.6em;
+            margin-bottom: 0.8em;
+        }
+        h2 {
+            font-size: 1.2em;
+            margin-top: 1.6em;
+        }
+        p {
+            margin: 0.6em 0;
+        }
+        footer {
+            margin-top: 2.5em;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<h1>プライバシーポリシー</h1>
+
+<p>
+本アプリは、アプリ内においてユーザーの個人情報を収集、保存、または第三者に送信することはありません。
+</p>
+
+<h2>お問い合わせについて</h2>
+
+<p>
+ユーザーからのお問い合わせは、外部サービス（Google Forms）を利用して受け付けています。
+フォーム送信時に入力された情報は、Googleのプライバシーポリシーに基づいて管理されます。
+</p>
+
+<h2>外部サービスについて</h2>
+
+<p>
+本アプリは、広告配信サービスやアクセス解析ツールを使用していません。
+</p>
+
+<h2>免責事項</h2>
+
+<p>
+本アプリの利用によって生じた損害について、開発者は一切の責任を負いません。
+</p>
+
+<h2>改定について</h2>
+
+<p>
+本ポリシーは、必要に応じて予告なく変更されることがあります。
+</p>
+
+<footer>
+    制定日：2026年1月
+</footer>
+
+</body>
+</html>
